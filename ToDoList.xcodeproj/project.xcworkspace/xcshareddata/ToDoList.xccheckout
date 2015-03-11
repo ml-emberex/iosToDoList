@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C453B7E6-61FD-460B-A419-13AC20ABD975</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ToDoList</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A101B815F07B19AAA24D8AFC621BE2C1F44B11EF</key>
+		<string>https://github.com/ml-emberex/iosToDoList.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ToDoList.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A101B815F07B19AAA24D8AFC621BE2C1F44B11EF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ml-emberex/iosToDoList.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A101B815F07B19AAA24D8AFC621BE2C1F44B11EF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A101B815F07B19AAA24D8AFC621BE2C1F44B11EF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ToDoList</string>
+		</dict>
+	</array>
+</dict>
+</plist>
