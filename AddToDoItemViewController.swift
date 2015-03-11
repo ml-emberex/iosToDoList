@@ -24,7 +24,6 @@ class AddToDoItemViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-    
 
     // MARK: - Navigation
 
@@ -46,7 +45,7 @@ class AddToDoItemViewController: UIViewController {
             return
         }
         
-        if !self.textField!.text.isEmpty {
+        if !self.textField.text.isEmpty {
             self.toDoItem = ToDoItem(name: self.textField.text)
         }
         //-MYCODE
